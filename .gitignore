@@ -1,0 +1,6 @@
+# Vagrant SettingDirs
+.vagrant/
+
+# IntelliJ IDEA SettingFiles
+.idea/
+laravel-vagrant.iml
