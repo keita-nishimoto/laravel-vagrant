@@ -158,8 +158,8 @@ $ vagrant ssh backend
 ホストOSのhostsに以下を追加して名前解決出来る状態にします。
 
 ```
-192.168.33.20 dev.laravel-front.net
-192.168.33.21 dev.laravel-api.net
+192.168.34.20 dev.laravel-front.net
+192.168.34.21 dev.laravel-api.net
 ```
 
 - フロントエンド
